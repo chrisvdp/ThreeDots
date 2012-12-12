@@ -57,7 +57,7 @@
 
 		HTML:		<div class='text_here'><span class='ellipsis_text'>TEXT</span></div>
 		JS:			$('.text_here').ThreeDots(); // USE DEFAULTS
-					$('.text_here2').ThreeDots({ { max_rows:3 });
+					$('.text_here2').ThreeDots({ max_rows:3 });
 		
 
 	COMPATIBILITY
